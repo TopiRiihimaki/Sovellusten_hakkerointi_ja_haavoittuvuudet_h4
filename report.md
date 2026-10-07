@@ -164,7 +164,7 @@ Ohjelmassa on pieni hiekkous. Jos annamme vain ensinmmäisen muuttuneen arvon, e
 
 <img width="694" height="66" alt="image" src="https://github.com/user-attachments/assets/f8dd80dd-8d2f-4a26-a224-2b273d7ef936" />
 
-Korjaus olisi, että se tarkistaisi koko merkkjonon, eikä vain ensinmmäistä.
+Korjaus olisi, että se tarkistaisi koko merkkijonon, eikä vain ensinmmäistä.
 
 ## Tekoälyn käyttö (ChatGPT 5.6 Luna)
 - Auttanut selittämään
