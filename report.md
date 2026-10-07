@@ -172,4 +172,5 @@ Korjaus olisi, että se tarkistaisi koko merkkijonon, eikä vain ensinmmäistä.
 
 ## Lähteet
 https://terokarvinen.com/application-hacking/
+
 https://github.com/NoraCodes/crackmes
