@@ -2,20 +2,27 @@
 
 # a)
 
-Asensin ghidran näin:
+Ghidra asennettiin Linuxissa seuraavilla komennoilla:
+
 ```
 sudo apt update
 sudo apt install openjdk-25-jdk unzip wget
 ```
-Se meni minun Download hakemistoon. Menin sinne ja ajoin tämän.
+
+Ghidran ZIP-tiedosto purettiin Downloads-hakemistossa komennolla:
 
 ```
 unzip ghidra_*.zip
 ```
-Avasin sitten ghidran tällä:
+
+Tämän jälkeen Ghidra käynnistettiin komennolla:
+
 ```
 ./ghidraRun
 ```
+
+Ghidra käynnistyi onnistuneesti ja oli valmis käytettäväksi.
+
 
 # b)
 
