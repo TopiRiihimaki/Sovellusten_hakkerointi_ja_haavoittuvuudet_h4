@@ -158,7 +158,7 @@ Jos kokeilemme tätä ohjelmassa:
 
 <img width="761" height="61" alt="image" src="https://github.com/user-attachments/assets/465782d4-5047-4970-a5ba-cd6f170cb420" />
 
-Niin saimme tuon vastauksen (tuo vastaus pitää laittaa ' merkkien sisälle, koska se muuten herjaa tuon ` mekin takia).
+Niin saimme tuon vastauksen (tuo vastaus pitää laittaa ' merkkien sisälle, koska se muuten herjaa tuon ` merkin takia).
 
 Ohjelmassa on pieni hiekkous. Jos annamme vain ensinmmäisen muuttuneen arvon, eli o, niin se silti käsittelee sen, kuin se olisi oikea vastaus.
 
