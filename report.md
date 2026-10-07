@@ -1,6 +1,21 @@
 
 
+# a)
 
+Asensin ghidran näin:
+```
+sudo apt update
+sudo apt install openjdk-25-jdk unzip wget
+```
+Se meni minun Download hakemistoon. Menin sinne ja ajoin tämän.
+
+```
+unzip ghidra_*.zip
+```
+Avasin sitten ghidran tällä:
+```
+./ghidraRun
+```
 
 # b)
 
